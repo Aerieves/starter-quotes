@@ -1,6 +1,9 @@
 ## Lingzhu  Matthew
 
 ----------------------------------------------------
+2016-09-16 05:10pm
+Added random page, where a random author will be shown
+----------------------------------------------------
 2016-09-16 04:56pm
 Added "what" field in welcome.php and homepage.php to show the quotes.
 ----------------------------------------------------
